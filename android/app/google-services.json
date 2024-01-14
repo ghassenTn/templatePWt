@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862159482323",
+    "project_id": "meublefirebase",
+    "storage_bucket": "meublefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862159482323:android:ecb9a8d02f7e87e5855326",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI_gDDScpctBdpqYOKJWKvrb5VFjpzKeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862159482323:android:681c2887d08b2759855326",
+        "android_client_info": {
+          "package_name": "com.example.ventemeuble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI_gDDScpctBdpqYOKJWKvrb5VFjpzKeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
